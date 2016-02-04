@@ -43,9 +43,7 @@ Code:
     This is second paragraph.
 Preview:
 ***
-This will be 
-inline.
-
+This will be inline.
 This is second paragraph.
 ***
 #### Line Breaks
