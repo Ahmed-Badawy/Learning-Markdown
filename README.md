@@ -96,7 +96,11 @@ Code:
 
     # This is an H1
     ## This is an H2
+    ### This is an H3
+    #### This is an H4
+    ##### This is an H5
     ###### This is an H6
+    
 Preview:
 ***
 # This is an H1
@@ -106,6 +110,7 @@ Preview:
 ##### This is an H5
 ###### This is an H6
 ***
+
 Optionally, you may “close” atx-style headers. The closing hashes **don’t need to match** the number of hashes used to open the header.
 
 Code:
