@@ -100,7 +100,7 @@ Code:
     #### This is an H4
     ##### This is an H5
     ###### This is an H6
-    
+
 Preview:
 ***
 # This is an H1
@@ -114,16 +114,18 @@ Preview:
 Optionally, you may “close” atx-style headers. The closing hashes **don’t need to match** the number of hashes used to open the header.
 
 Code:
-
     # This is an H1 #
     ## This is an H2 ##
     ### This is an H3 ######
+
 Preview:
 ***
 # This is an H1 #
 ## This is an H2 ##
 ### This is an H3 ######
 ***
+
+
 
 ### Blockquotes
 HTML Tag: `<blockquote>`
@@ -148,6 +150,7 @@ Preview:
 > id sem consectetuer libero luctus adipiscing.
 
 ***
+
 Markdown allows you to be lazy and only put the > before the first line of a hard-wrapped paragraph.
 
 Code:
@@ -158,6 +161,7 @@ Code:
     
     > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
     id sem consectetuer libero luctus adipiscing.
+
 Preview:
 ***
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -168,6 +172,8 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 id sem consectetuer libero luctus adipiscing.
 
 ***
+
+
 Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by adding additional levels of >.
 
 Code:
@@ -624,7 +630,7 @@ Code:
     ![Alt text](/path/to/img.jpg "Optional title")
 Preview:
 ***
-![Alt text](/path/to/img.jpg)
+![Alt text](me.jpg)
 
 ![Alt text](/path/to/img.jpg "Optional title")
 ***
