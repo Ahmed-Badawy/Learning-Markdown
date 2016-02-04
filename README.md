@@ -39,13 +39,15 @@ One or more blank lines. (A blank line is a line containing nothing but **spaces
 
 Code:
 
-    This will be inline.
+    This will be inline.  
     This is second paragraph.
 Preview:
 ***
 This will be inline.
 This is second paragraph.
 ***
+
+
 #### Line Breaks
 HTML Tag: `<br />`
 
@@ -60,6 +62,7 @@ Preview:
 This will be not  
 inline.
 ***
+
 
 ### Headers
 Markdown supports two styles of headers, Setext and atx.
@@ -78,10 +81,12 @@ Preview:
 ***
 This is an H1
 =============
-
 This is an H2
 -------------
 ***
+
+
+
 #### atx
 HTML Tags: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
 
@@ -96,6 +101,9 @@ Preview:
 ***
 # This is an H1
 ## This is an H2
+### This is an H3
+#### This is an H4
+##### This is an H5
 ###### This is an H6
 ***
 Optionally, you may “close” atx-style headers. The closing hashes **don’t need to match** the number of hashes used to open the header.
