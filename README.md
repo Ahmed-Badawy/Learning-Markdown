@@ -466,11 +466,18 @@ Preview:
  A | B 
 ---|---
 123|456
+123|456
+123|456
+123|456
+123|456
 
 A |B 
 --|--
 12|45
 ***
+
+
+
 ## Span Elements
 ### Links
 HTML Tag: `<a>`
@@ -649,11 +656,9 @@ Code:
     ![Alt text][img id]
 Preview:
 ***
-[img id]: me.jpg  "Optional title attribute"
-![Alt text][me.jpg]
+[img id]: url/to/image  "Optional title attribute"
+![Alt text][img id]
 ***
-
-
 
 
 ### Strikethrough
