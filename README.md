@@ -649,9 +649,13 @@ Code:
     ![Alt text][img id]
 Preview:
 ***
-[img id]: url/to/image  "Optional title attribute"
-![Alt text][img id]
+[img id]: me.jpg  "Optional title attribute"
+![Alt text][me.jpg]
 ***
+
+
+
+
 ### Strikethrough
 HTML Tag: `<del>`
 
