@@ -1,7 +1,13 @@
 # Markdown
 A markdown example shows how to write a markdown file. This document integrates core syntax and extensions (GMF).
+---
+---
+---
 
-one
+
+
+This is how we create a reference to titles in   
+the page:- 
 ---
 
 * [Block Elements](#block-elements)
@@ -22,6 +28,8 @@ one
   * [Automatic Links](#automatic-links)
   * [Backslash Escapes](#backslash-escapes)
 * [Inline HTML](#inline-html)
+
+
 
 ## Block Elements
 ### Paragraphs and Line Breaks
