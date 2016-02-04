@@ -6,8 +6,7 @@ A markdown example shows how to write a markdown file. This document integrates 
 
 
 
-This is how we create a reference to titles in   
-the page:- 
+This is how we create a reference to titles in the page:- 
 ---
 
 * [Block Elements](#block-elements)
@@ -40,9 +39,7 @@ One or more blank lines. (A blank line is a line containing nothing but **spaces
 
 Code:
 
-    This will be 
-    inline.
-    
+    This will be inline.
     This is second paragraph.
 Preview:
 ***
